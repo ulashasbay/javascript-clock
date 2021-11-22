@@ -1,1 +1,1 @@
-# Patika Front End Javascript Clock Uygulaması
+# Javascript Clock Uygulaması
